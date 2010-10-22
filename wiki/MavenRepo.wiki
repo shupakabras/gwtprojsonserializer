@@ -3,6 +3,8 @@
 
 The new maven repository is now up and running, it is available at this url: http://gwtprojsonserializer.googlecode.com/svn/repo/
 
+If you prefer you can also refer to the mirrored repository on the [http://maven.ow2.org/maven2/com/kfuntak/gwt/json/gwtprojsonserializer/ OW2 repository].
+
 ==Step 1: add the repository path to your pom.xml file==
 {{{
 <repositories> 
