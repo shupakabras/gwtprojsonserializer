@@ -3,7 +3,8 @@ Having trouble? Got questions? Check the FAQ.
 Want to see a list of all [http://code.google.com/p/gwtprojsonserializer/w/list wiki pages] ?
 
 = Getting Started =
-For the moment the only tutorial is available here.
+For the moment the only tutorial is available [GettingStarted here].
+If you are using maven, jump to the [MavenRepo maven] wiki page for more information.
 
 = User Guide and FAQ =
 For a general overview of how to use GWTProJSONSerializer, try the user guide or the FAQ.
