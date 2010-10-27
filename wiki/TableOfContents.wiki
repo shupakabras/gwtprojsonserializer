@@ -1,4 +1,3 @@
-#Table of contents for ASE documentation.
 Having trouble? Got questions? Check the FAQ.
 
 Want to see a list of all [http://code.google.com/p/gwtprojsonserializer/w/list wiki pages] ?
