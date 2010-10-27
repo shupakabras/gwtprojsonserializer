@@ -1,5 +1,3 @@
-#getting started
-
 = Setup GWT modules =
 First, you should add GWTProJSONSerializer to your GWT module xml file,
 {{{
