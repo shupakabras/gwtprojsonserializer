@@ -4,9 +4,11 @@
   <artifactId>gwtprojsonserializer</artifactId>
   <version>1.0.2</version>
   <versioning>
+    <release>1.0.3</release>
     <versions>
       <version>1.0.2</version>
+      <version>1.0.3</version>
     </versions>
-    <lastUpdated>20101020073217</lastUpdated>
+    <lastUpdated>20101212143948</lastUpdated>
   </versioning>
 </metadata>
