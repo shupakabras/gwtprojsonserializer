@@ -1,2 +1,2 @@
-  * [http://code.google.com/p/gwtprojsonserializer/wiki/MavenRepo Maven]
+  * [http://code.google.com/p/gwtprojsonserializer/wiki/GettingStartedOnMaven2 Maven]
   * [http://code.google.com/p/gwtprojsonserializer/wiki/GettingStarted Getting Started]
