@@ -19,6 +19,6 @@ If you prefer you can also refer to the mirrored repository on the [http://maven
 <dependency> 
    <groupId>com.kfuntak.gwt.json</groupId> 
    <artifactId>gwtprojsonserializer</artifactId> 
-   <version>1.0.2</version> 
+   <version>1.0.3</version> 
 </dependency>
 }}}
