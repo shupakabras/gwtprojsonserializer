@@ -1,3 +1,2 @@
-#labels Featured
   * [http://code.google.com/p/gwtprojsonserializer/wiki/GettingStarted Getting Started]
   * [http://code.google.com/p/gwtprojsonserializer/wiki/GettingStartedOnMaven2 Getting Started on Maven2]
