@@ -1,5 +1,5 @@
 #summary gwtprojsonserializer maven access.
-#labels Phase-Deploy,Maven
+#labels Phase-Deploy,Maven,Featured
 
 The new maven repository is now up and running, it is available at this url: http://gwtprojsonserializer.googlecode.com/svn/repo/
 
